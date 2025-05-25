@@ -40,7 +40,16 @@ Happy as a pig in shit
 Node 1
 node3.walletbuilders.com
 
-Last block with reward
-21978000
-Time until last block
-208 years, 11 months, 7 days, 12 hours
+SHA-256
+ Based on Bitcoin 25.0
+ Proof-of-Work
+ Name and ticker of your choice
+ Address starting letter of your choice
+ Logo and icon of your choice
+ Unique genesis block for main network
+ Unique genesis block for test network*
+ Coinbase key of genesis block
+ Windows wallet
+ Linux wallet
+ Source code and daemon*
+ Premine*
